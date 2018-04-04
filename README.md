@@ -1,4 +1,2 @@
 identidock
 =================
-README
-new3
