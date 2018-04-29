@@ -1,5 +1,5 @@
 proxy:
-  image: proxy:0.1
+  image: proxy:1.0
   links:
     - identidock
   ports:
